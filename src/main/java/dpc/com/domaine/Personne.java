@@ -12,6 +12,7 @@ public class Personne {
 	private String nom ;
 	private String prenom;
 	private String address;
+	private String phone ;
 	public String getNom() {
 		return nom;
 	}
