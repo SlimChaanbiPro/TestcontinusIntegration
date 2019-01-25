@@ -8,7 +8,7 @@ package dpc.com.domaine;
  *
  */
 public class Personne {
-	
+	private int count;
 	private String nom ;
 	private String prenom;
 	private String address;
