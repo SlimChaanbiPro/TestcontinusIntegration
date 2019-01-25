@@ -10,6 +10,13 @@ public class Ville {
 	public void setAdresse(String adresse) {
 		this.adresse = adresse;
 	}
+
+	public Ville(String adresse) {
+		super();
+		this.adresse = adresse;
+	}
+	
+	
 	
 	
 
