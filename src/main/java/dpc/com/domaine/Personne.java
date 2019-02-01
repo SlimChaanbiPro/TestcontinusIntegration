@@ -14,6 +14,8 @@ public class Personne {
 	private String prenom;
 	private String address;
 	private String phone ;
+	private String test;
+	
 	public String getNom() {
 		return nom;
 	}
