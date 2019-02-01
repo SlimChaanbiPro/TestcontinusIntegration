@@ -29,5 +29,12 @@ public String getDepartement() {
 public void setDepartement(String departement) {
 	this.departement = departement;
 }
+public Matiere(int idmatiere, String nom, String nomber, String departement) {
+	super();
+	this.idmatiere = idmatiere;
+	this.nom = nom;
+	this.nomber = nomber;
+	this.departement = departement;
+}
 
 }
